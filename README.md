@@ -1,9 +1,9 @@
 # TTY-Ipv4censor
 censorship for ipv4
-#Start 
+# Start 
 use git clone, then chmod +x install.sh 
 profit.
-#License / Human-Only Use
+# License / Human-Only Use
 
 This project is source-available for humans only. You may read, study, modify, and redistribute it under the terms stated in this repository.
 
